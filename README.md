@@ -43,16 +43,23 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+<img width="451" height="283" alt="Screenshot 2026-10-29 103250" src="https://github.com/user-attachments/assets/38311ab7-b91b-4a49-9f82-35e5cfa8202a" />
+
+
 
 
 cat < file2
 ## OUTPUT
+<img width="730" height="502" alt="Screenshot 2026-10-29 103449" src="https://github.com/user-attachments/assets/105d6d12-749a-4736-9a7a-6d1b62e0b6ac" />
+
+
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ <img width="536" height="50" alt="Screenshot 2026-10-29 103532" src="https://github.com/user-attachments/assets/c98f6a64-bf2d-4eb9-8f36-67478be66a92" />
+
 comm file1 file2
  ## OUTPUT
 
